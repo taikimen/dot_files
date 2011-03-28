@@ -1,3 +1,10 @@
-=head1 dot files
+=head1 About
 
 For max os X snowleopard vim
+
+=head2 Memo
+
+type "fc" : pbcopy
+type "fp" : pbpaste
+
+for cygwin or osX
